@@ -17,7 +17,6 @@ const double masa = 1000;
 const double sdm = 50;
 
 
-
 struct asteroide {                      //Clase asteroide (objeto)
     double posX;
     double posY;
